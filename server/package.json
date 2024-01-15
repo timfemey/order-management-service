@@ -1,0 +1,12 @@
+{
+  "name": "order-management-service-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The backend for the Order Management service by Obafemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/index.js"
+  },
+  "author": "Ishola Obafemi",
+  "license": "MIT"
+}
